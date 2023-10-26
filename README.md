@@ -14,6 +14,7 @@ split_msg.py
 ├── test_spliting.py    5. Unit тесты
 ├── split_msg.py        6. !!! ОСНОВНОЙ СКРИПТ
 ├── requirements.txt    7. Файл с зависимостями
+├── Тестовое_задание_для_кандидатов_backend.pdf    
 └── README.md
 ```
 ## Используемые библиотеки
